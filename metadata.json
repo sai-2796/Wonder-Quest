@@ -1,0 +1,6 @@
+{
+  "name": "WonderQuest",
+  "description": "WonderQuest is a family learning and discovery companion featuring interactive kid quests, audiobooks, rewards, and a parent command center.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
